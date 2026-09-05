@@ -1,0 +1,46 @@
+ID,Name,Speciality,Qualification,DutyTime,Hospital,VisitFee
+1,Dr. Md. Anwar Hossain,Medicine Specialist,"MBBS, FCPS (Medicine)",9:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1200
+2,Dr. Salma Khatun,Gynecology Specialist,"MBBS, MD (Gynecology)",10:00 AM - 3:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1500
+3,Dr. Jahidul Islam,Orthopedic Surgeon,"MBBS, FCPS, MS (Orthopedic)",4:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1400
+4,Dr. Ruma Akter,Pediatric Specialist,"MBBS, FCPS (Pediatrics)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1000
+5,Dr. Hasan Mahmud,Medicine Specialist,"MBBS, FCPS (Medicine)",8:00 AM - 12:00 PM & 5:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",700
+6,Dr. Shafiqul Bari,Urology Specialist,"MBBS, MS (Urology)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1100
+7,Dr. Laila Sultana,Ophthalmology Specialist,"MBBS, FCPS (Eye)",11:00 AM - 4:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",900
+8,Dr. Tanvir Rahman,Pediatric Specialist,"MBBS, MD (Child Health)",3:00 PM - 8:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1000
+9,Dr. Mahmud Hasan,Surgery Specialist,"MBBS, FCPS, MS (Surgery)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1300
+10,Dr. Farida Yasmin,Gynecology & Obstetrics Specialist,"MBBS, FCPS (Gynecology)",10:00 AM - 3:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1100
+11,Dr. Imran Hossain,ENT Specialist,"MBBS, MS (ENT)",9:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1400
+12,Dr. Shuvo Chowdhury,Cardiology Specialist,"MBBS, FCPS, MD (Cardiology)",10:00 AM - 5:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",800
+13,Dr. Md. Rafiqul Islam,Medicine Specialist,"MBBS, FCPS (Medicine)",11:00 AM - 4:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1200
+14,Dr. Sharmin Akter,Neurology Specialist,"MBBS, MD (Neurology)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",900
+15,Dr. Saiful Alam,Orthopedic Surgeon,"MBBS, FCPS, MS (Orthopedic)",4:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1300
+16,Dr. Farzana Haque,Gynecology Specialist,"MBBS, FCPS (Gynecology)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",712
+17,Dr. Reza Hasan,Medicine Specialist,"MBBS, FCPS (Medicine)",3:00 PM - 7:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",825
+18,Dr. Mohiuddin Ahmed,Urology Specialist,"MBBS, D.Card (Urology)",2:00 PM - 6:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",771
+19,Dr. Arif Hossain,Ophthalmology Specialist,"MBBS, FCPS (Eye)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1046
+20,Dr. Mahjabin Sultana,Pediatric Specialist,"MBBS, MD (Child Health)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1002
+21,Dr. Manjurul Haque,Surgery Specialist,"MBBS, FCPS, MS (Surgery)",5:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",716
+22,Dr. Azmeri Saba,Gynecology & Obstetrics Specialist,"MBBS, FCPS (Gynecology)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",747
+23,Dr. Asif Iqbal,ENT Specialist,"MBBS, MS (ENT)",2:00 PM - 6:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",819
+24,Dr. Rajib Chowdhury,Cardiology Specialist,"MBBS, FCPS, MD (Cardiology)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",987
+25,Dr. Nazmul Huda,Medicine Specialist,"MBBS, FCPS (Medicine)",2:00 PM - 6:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1066
+26,Dr. Shahana Akter,Pediatric Specialist,"MBBS, MD (Pediatrics)",5:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",812
+27,Dr. Tania Rahman,Gynecology Specialist,"MBBS, FCPS (Gynecology)",9:00 AM - 12:00 PM & 6:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1001
+28,Dr. Kamrul Hasan,Orthopedic Surgeon,"MBBS, MS (Orthopedic)",3:00 PM - 7:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1114
+29,Dr. Rafiq Ahmed,Medicine Specialist,"MBBS, FCPS (Medicine)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1088
+30,Dr. Nusrat Jahan,Neurology Specialist,"MBBS, MD (Neurology)",11:00 AM - 3:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1057
+31,Dr. Mahmudul Karim,Surgery Specialist,"MBBS, FCPS (Surgery)",5:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",874
+32,Dr. Afsana Rahim,Pediatric Specialist,"MBBS, MD (Child Health)",3:00 PM - 7:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",779
+34,Dr. Md. Shafiqul Islam,Medicine Specialist,"MBBS, FCPS (Medicine)",2:00 PM - 6:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1190
+35,Dr. Rasheda Khatun,Gynecology Specialist,"MBBS, MD (Gynecology)",4:00 PM - 8:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",752
+36,Dr. Jahangir Alam,Orthopedic Surgeon,"MBBS, FCPS, MS (Orthopedic)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",894
+37,Dr. Nasrin Akter,Pediatric Specialist,"MBBS, FCPS (Pediatrics)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",883
+38,Dr. Abdullah Hasan,Medicine Specialist,"MBBS, FCPS (Medicine)",4:00 PM - 8:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1009
+39,Dr. Mahfuza Sultana,Urology Specialist,"MBBS, MS (Urology)",3:00 PM - 7:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1113
+40,Dr. Shamsul Huda,Ophthalmology Specialist,"MBBS, FCPS (Eye)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1073
+41,Dr. Farhana Rahman,Pediatric Specialist,"MBBS, MD (Child Health)",9:00 AM - 12:00 PM & 6:00 PM - 9:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",974
+42,Dr. Nabila Islam,Dermatology Specialist,"MBBS, DDV (Dermatology)",10:00 AM - 2:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",950
+43,Dr. Kamal Uddin,Gastroenterology Specialist,"MBBS, MD (Gastroenterology)",3:00 PM - 7:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1150
+44,Dr. Selina Parvin,Pulmonology / Chest Specialist,"MBBS, FCPS (Chest Disease)",9:00 AM - 1:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1050
+45,Dr. Zahid Hasan,Dental Surgeon,"BDS, FCPS (Dental)",4:00 PM - 8:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",800
+46,Dr. Farhana Yesmin,Psychiatry Specialist,"MBBS, MD (Psychiatry)",11:00 AM - 3:00 PM,"Islamic Bank Hospital Mirpur 11 ,Dhaka",1100
